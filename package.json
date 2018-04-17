@@ -1,0 +1,14 @@
+{
+  "name": "minutiae",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Warwick Allen",
+  "repository": "BlockchainGit/minutiae-serverless",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^1.4.0"
+  }
+}
